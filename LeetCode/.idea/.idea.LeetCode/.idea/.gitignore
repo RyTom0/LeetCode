@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.LeetCode.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Tom\LeetCode\LeetCode\.idea\.idea.LeetCode\.idea/dataSources/
+/dataSources.local.xml
